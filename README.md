@@ -1,5 +1,7 @@
 # Project 4
 
+The project description is provided in the file Project4.pdf
+
 ## Materials
 
 ```/tools```
